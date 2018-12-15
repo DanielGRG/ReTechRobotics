@@ -1,6 +1,1 @@
-Alandala
-<<<<<<< HEAD
-Ba, frate.
-=======
-Aici
->>>>>>> 9e25099af865b5a82e0388d8e34b0609c5eca6ec
+Modificat din master
